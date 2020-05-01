@@ -1,0 +1,323 @@
+b_<	ɓ	アルファベット	X-SAMPA
+d`	ɖ	アルファベット	X-SAMPA
+d_<	ɗ	アルファベット	X-SAMPA
+g_<	ɠ	アルファベット	X-SAMPA
+h\	ɦ	アルファベット	X-SAMPA
+j\	ʝ	アルファベット	X-SAMPA
+l`	ɭ	アルファベット	X-SAMPA
+l\	ɺ	アルファベット	X-SAMPA
+n`	ɳ	アルファベット	X-SAMPA
+p\	ɸ	アルファベット	X-SAMPA
+r`	ɽ	アルファベット	X-SAMPA
+r\	ɹ	アルファベット	X-SAMPA
+r\`	ɻ	アルファベット	X-SAMPA
+s`	ʂ	アルファベット	X-SAMPA
+s\	ɕ	アルファベット	X-SAMPA
+t`	ʈ	アルファベット	X-SAMPA
+v\	ʋ	アルファベット	X-SAMPA
+z`	ʐ	アルファベット	X-SAMPA
+z\	ʑ	アルファベット	X-SAMPA
+A	ɑ	アルファベット	X-SAMPA
+Q	ɒ	アルファベット	X-SAMPA
+B\	ʙ	アルファベット	X-SAMPA
+C	ç	アルファベット	X-SAMPA
+D	ð	アルファベット	X-SAMPA
+E	ɛ	アルファベット	X-SAMPA
+G\	ɢ	アルファベット	X-SAMPA
+G\_<	ʛ	アルファベット	X-SAMPA
+G	ɣ	アルファベット	X-SAMPA
+X\	ħ	アルファベット	X-SAMPA
+H\	ʜ	アルファベット	X-SAMPA
+I	ɪ	アルファベット	X-SAMPA
+I\	ᵻ	アルファベット	X-SAMPA
+J\	ɟ	アルファベット	X-SAMPA
+J\_<	ʄ	アルファベット	X-SAMPA
+L\	ʟ	アルファベット	X-SAMPA
+K	ɬ	アルファベット	X-SAMPA
+K\	ɮ	アルファベット	X-SAMPA
+L	ʎ	アルファベット	X-SAMPA
+F	ɱ	アルファベット	X-SAMPA
+N\	ɴ	アルファベット	X-SAMPA
+J	ɲ	アルファベット	X-SAMPA
+N	ŋ	アルファベット	X-SAMPA
+O	ɔ	アルファベット	X-SAMPA
+R\	ʀ	アルファベット	X-SAMPA
+R	ʁ	アルファベット	X-SAMPA
+S	ʃ	アルファベット	X-SAMPA
+H	ɥ	アルファベット	X-SAMPA
+M	ɯ	アルファベット	X-SAMPA
+M\	ɰ	アルファベット	X-SAMPA
+U	ʊ	アルファベット	X-SAMPA
+U\	ᵿ	アルファベット	X-SAMPA
+V	ʌ	アルファベット	X-SAMPA
+W	ʍ	アルファベット	X-SAMPA
+Y	ʏ	アルファベット	X-SAMPA
+Z	ʒ	アルファベット	X-SAMPA
+O\	ʘ	アルファベット	X-SAMPA
+B	β	アルファベット	X-SAMPA
+T	θ	アルファベット	X-SAMPA
+X	χ	アルファベット	X-SAMPA
+"	ˈ	アルファベット	X-SAMPA
+%	ˌ	アルファベット	X-SAMPA
+:	ː	アルファベット	X-SAMPA
+:\	ˑ	アルファベット	X-SAMPA
+@	ə	アルファベット	X-SAMPA
+@\	ɘ	アルファベット	X-SAMPA
+{	æ	アルファベット	X-SAMPA
+}	ʉ	アルファベット	X-SAMPA
+1	ɨ	アルファベット	X-SAMPA
+2	ø	アルファベット	X-SAMPA
+3	ɜ	アルファベット	X-SAMPA
+3\	ɞ	アルファベット	X-SAMPA
+4	ɾ	アルファベット	X-SAMPA
+5	ɫ	アルファベット	X-SAMPA
+6	ɐ	アルファベット	X-SAMPA
+7	ɤ	アルファベット	X-SAMPA
+8	ɵ	アルファベット	X-SAMPA
+9	œ	アルファベット	X-SAMPA
+&	ɶ	アルファベット	X-SAMPA
+?	ʔ	アルファベット	X-SAMPA
+?\	ʕ	アルファベット	X-SAMPA
+<\	ʢ	アルファベット	X-SAMPA
+>\	ʡ	アルファベット	X-SAMPA
+^	ꜛ	アルファベット	X-SAMPA
+!	ꜜ	アルファベット	X-SAMPA
+!\	ǃ	アルファベット	X-SAMPA
+|\	ǀ	アルファベット	X-SAMPA
+||	‖	アルファベット	X-SAMPA
+|\|\	ǁ	アルファベット	X-SAMPA
+=\	ǂ	アルファベット	X-SAMPA
+-\	‿	アルファベット	X-SAMPA
+i_^	i̯	アルファベット	X-SAMPA
+ts	t͡s	アルファベット	X-SAMPA
+dz	d͡z	アルファベット	X-SAMPA
+tS	t͡ʃ	アルファベット	X-SAMPA
+dS	d͡ʒ	アルファベット	X-SAMPA
+ts`	ʈ͡ʂ	アルファベット	X-SAMPA
+dz`	ɖ͡ʐ	アルファベット	X-SAMPA
+ts\	t͡ɕ	アルファベット	X-SAMPA
+dz\	d͡ʑ	アルファベット	X-SAMPA
+pp\	p͡ɸ	アルファベット	X-SAMPA
+bB	b͡β	アルファベット	X-SAMPA
+pf	p̪͡f	アルファベット	X-SAMPA
+bv	b̪͡v	アルファベット	X-SAMPA
+tT	t͡θ	アルファベット	X-SAMPA
+dD	d͡ð	アルファベット	X-SAMPA
+dr\	d̠͡ɹ̠˔	アルファベット	X-SAMPA
+cC	c͡ç	アルファベット	X-SAMPA
+jj\	ɟ͡ʝ	アルファベット	X-SAMPA
+gG	ɡ͡ɣ	アルファベット	X-SAMPA
+qX	q͡χ	アルファベット	X-SAMPA
+<\h\	ʡ͡ħ	アルファベット	X-SAMPA
+<\?	ʡ͡ʕ	アルファベット	X-SAMPA
+?h	ʔ͡h	アルファベット	X-SAMPA
+tK	t͡ɬ	アルファベット	X-SAMPA
+dK\	d͡ɮ	アルファベット	X-SAMPA
+tl`	ʈ͡ɭ̊˔	アルファベット	X-SAMPA
+cL	c͡ʎ̥˔	アルファベット	X-SAMPA
+kL\	k͡ʟ̝̊	アルファベット	X-SAMPA
+gL\	ɡ͡ʟ̝	アルファベット	X-SAMPA
+O	ꭥ	アルファベット	スモールキャピタル
+A	ᴀ	アルファベット	スモールキャピタル
+B	ʙ	アルファベット	スモールキャピタル
+C	ᴄ	アルファベット	スモールキャピタル
+D	ᴅ	アルファベット	スモールキャピタル
+E	ᴇ	アルファベット	スモールキャピタル
+F	ꜰ	アルファベット	スモールキャピタル
+G	ɢ	アルファベット	スモールキャピタル
+H	ʜ	アルファベット	スモールキャピタル
+J	ᴊ	アルファベット	スモールキャピタル
+K	ᴋ	アルファベット	スモールキャピタル
+L	ʟ	アルファベット	スモールキャピタル
+M	ᴍ	アルファベット	スモールキャピタル
+N	ɴ	アルファベット	スモールキャピタル
+O	ᴏ	アルファベット	スモールキャピタル
+P	ᴘ	アルファベット	スモールキャピタル
+Q	ꞯ	アルファベット	スモールキャピタル
+R	ʀ	アルファベット	スモールキャピタル
+S	ꜱ	アルファベット	スモールキャピタル
+T	ᴛ	アルファベット	スモールキャピタル
+U	ᴜ	アルファベット	スモールキャピタル
+V	ᴠ	アルファベット	スモールキャピタル
+W	ᴡ	アルファベット	スモールキャピタル
+Z	ᴢ	アルファベット	スモールキャピタル
+E\	ⱻ	アルファベット	スモールキャピタル
+E\	Ǝ	アルファベット	turned E
+@	Ə	アルファベット	inverted E
+@	ǝ	アルファベット	turned E
+@	ә	アルファベット	Cyrillic schwa
+@	Ә	アルファベット	Cyrillic schwa
+_w	ʷ	アルファベット	X-SAMPA
+_n	ⁿ	アルファベット	X-SAMPA
+_G	ˠ	アルファベット	X-SAMPA
+_h	ʰ	アルファベット	X-SAMPA
+_j	ʲ	アルファベット	X-SAMPA
+<R>	↗	アルファベット	X-SAMPA
+<F>	↘	アルファベット	X-SAMPA
+gn	Ŋ	アルファベット	ENG
+y_^	y̯	アルファベット	X-SAMPA
+u_^	u̯	アルファベット	X-SAMPA
+Y_^	ʏ̯	アルファベット	X-SAMPA
+t_}	t̚	アルファベット	X-SAMPA
+p_}	p̚	アルファベット	X-SAMPA
+k_}	k̚	アルファベット	X-SAMPA
+N_0	ŋ̥	アルファベット	X-SAMPA
+r_0	r̥	アルファベット	X-SAMPA
+m_0	m̥	アルファベット	X-SAMPA
+n_0	n̥	アルファベット	X-SAMPA
+@_X	ә̆	アルファベット	X-SAMPA
+a_X	ă	アルファベット	X-SAMPA
+i_X	ĭ	アルファベット	X-SAMPA
+u_X	ŭ	アルファベット	X-SAMPA
+e_X	ĕ	アルファベット	X-SAMPA
+1_X	ɨ̆	アルファベット	X-SAMPA
+o_X	ŏ	アルファベット	X-SAMPA
+{_X	æ̆	アルファベット	X-SAMPA
+Q_X	ɒ̆	アルファベット	X-SAMPA
+A_X	ɑ̆	アルファベット	X-SAMPA
+c_R	č	アルファベット	TPA
+Z_R	ǯ	アルファベット	TPA
+1_^	ɨ̯	アルファベット	X-SAMPA
+u_~	ũ	アルファベット	X-SAMPA
+a8	aɵ	アルファベット
+8u	ɵu	アルファベット
+@8	əɵ	アルファベット
+Ii	ɪi	アルファベット
+C_R	Č	アルファベット
+S_R	Š	アルファベット
+s_R	š	アルファベット
+Z_R	Ž	アルファベット
+z_R	ž	アルファベット
+R_R	Ř	アルファベット
+r_R	ř	アルファベット
+D_R	Ď	アルファベット
+d_R	ď	アルファベット
+T_R	Ť	アルファベット
+t_R	ť	アルファベット
+N_R	Ň	アルファベット
+n_R	ň	アルファベット
+L_R	Ľ	アルファベット
+l_R	ľ	アルファベット
+E_R	Ě	アルファベット
+e_R	ě	アルファベット
+X_R	X̌	アルファベット
+ｘ_R	x̌	アルファベット
+H_R	Ȟ	アルファベット
+h_R	ȟ	アルファベット
+a_R	ǎ	アルファベット
+i_R	ǐ	アルファベット
+u_R	ǔ	アルファベット
+u_:_R	ǚ	アルファベット
+A_R	Ǎ	アルファベット
+I_R	Ǐ	アルファベット
+J_R	J̌	アルファベット
+K_R	Ǩ	アルファベット
+k_R	ǩ	アルファベット
+a_^	a̯	アルファベット	X-SAMPA
+e_^	e̯	アルファベット	X-SAMPA
+1_^	ɨ̯	アルファベット	X-SAMPA
+o_^	o̯	アルファベット	X-SAMPA
+}_^	ʉ̯	アルファベット	X-SAMPA
+@_^	ə̯	アルファベット
+N_=	ŋ̩	アルファベット
+e_"	ë	アルファベット
+i_"	ï	アルファベット
+o_"	ö	アルファベット
+e_F	ê	アルファベット
+i_F	î	アルファベット
+o_F	ô	アルファベット
+n_=	n̩	アルファベット	X-SAMPA
+m_=	m̩	アルファベット	X-SAMPA
+m_0=	m̥̩	アルファベット	X-SAMPA
+n_0=	n̥̩	アルファベット	X-SAMPA
+N_0=	ŋ̥̩	アルファベット	X-SAMPA
+C_=	C̩	アルファベット	X-SAMPA
+2_F	ø̂	アルファベット	X-SAMPA
+U_F	ʊ̂	アルファベット	X-SAMPA
+l_e	ɫ	アルファベット	X-SAMPA
+r\_0	ɹ̥	アルファベット	X-SAMPA
+h_=	h̩	アルファベット	X-SAMPA
+X_=	χ̩	アルファベット	X-SAMPA
+x_=	x̩	アルファベット	X-SAMPA
+＠＿＾	ə̯	アルファベット	X-SAMPA
+e_^	e̯	アルファベット	X-SAMPA
+1_^	ɨ̯	アルファベット	X-SAMPA
+g_=	g̩	アルファベット	X-SAMPA
+k_=	k̩	アルファベット	X-SAMPA
+r_=	r̩	アルファベット	X-SAMPA
+l_=	l̩	アルファベット	X-SAMPA
+e0	ᴇ̥	アルファベット
+o0	ꭥ̥	アルファベット
+ef	ᴇ̂	アルファベット
+of	ꭥ̂	アルファベット
+af	ᴀ̂	アルファベット
+V_0	V̥	アルファベット
+ej	ᴇ	アルファベット
+aj	ᴀ	アルファベット
+oj	ꭥ	アルファベット
+ちょくけぃ	⌀	記号	直径記号
+=	≈	記号
+=	≅	記号
+=	≢	記号
++	⁺	記号
+-	⁻	記号
++	₊	記号
+-	₋	記号
+--	—	記号	EM-DASH
+:\	ˑ	記号
+~	〜	句読点	波ダッシュ
+「	«	句読点
+」	»	句読点
+num	ʹ	数	primary stress
+1	¹	数
+2	²	数
+3	³	数
+4	⁴	数
+5	⁵	数
+6	⁶	数
+7	⁷	数
+8	⁸	数
+9	⁹	数
+0	⁰	数
+1	₁	数
+2	₂	数
+3	₃	数
+4	₄	数
+5	₅	数
+6	₆	数
+7	₇	数
+8	₈	数
+9	₉	数
+0	₀	数
+A_0	Ḁ	アルファベット
+i_0	i̥	アルファベット	X-SAMPA
+u_0	u̥	アルファベット	X-SAMPA
+M_0	ɯ̥	アルファベット	X-SAMPA
+1_0	ɨ̥	アルファベット	X-SAMPA
+2_0	ø̥	アルファベット	X-SAMPA
+@_0	ə̥	アルファベット	X-SAMPA
+y_0	y̥	アルファベット	X-SAMPA
+a_0	ḁ	アルファベット	X-SAMPA
+A_0	ɑ̥	アルファベット	X-SAMPA
+A_0	ᴀ̥	アルファベット
+O_H	ɔ́	アルファベット	X-SAMPA
+E_H	ɛ́	アルファベット	X-SAMPA
+O_L	ɔ̀	アルファベット	X-SAMPA
+_p\	ᶲ	アルファベット	X-SAMPA
+_h\	ʱ	アルファベット	X-SAMPA
+_t	ᵗ	アルファベット	X-SAMPA
+_N	ᵑ	アルファベット	X-SAMPA
+F/	₣	アルファベット
+_m	ᵐ	アルファベット
+_?\	ˤ	アルファベット	X-SAMPA
+r\_0	ɹ̥	アルファベット	X-SAMPA
+E_L	ɛ̀	アルファベット	X-SAMPA
+@	Ǝ	アルファベット
+まる	◌	アルファベット
+_N	ᶰ	アルファベット
+29	ʚ	アルファベット
+E_H	ɛ́	アルファベット
+O_H	ɔ́	アルファベット
+&\	ɶ	アルファベット
+s}	ʅ	アルファベット
+nj_0	ȵ̥	アルファベット
