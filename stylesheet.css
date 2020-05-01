@@ -24,14 +24,17 @@
   transform: translateY(-50%);
   z-index: -1;
 }
-.hr {
+.hr1 {
   height: 1px;
   border: none;
-  border-top: 1px #000000 solid;
+  border-top: 1px cornflowerblue solid;
+}
+.hr2  {
+  border-top: 3px double cornflowerblue;
 }
 a:hover{
   color: crimson;
 }
 a:visited{
-  color: darkgoldenrod;
+  color: teal;
 }
