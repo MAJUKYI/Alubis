@@ -1,24 +1,24 @@
 .h1 {
   color: blueviolet;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 .h2 {
   color: rebeccapurple;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 .h3 {
   color: darkblue;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 .body {
   margin: auto;
   max-width: 500px;
 }
 .pp {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 .ppp  {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: smaller;
 }
 .reflect {
@@ -28,7 +28,7 @@ table{
   width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 table th,table td{
