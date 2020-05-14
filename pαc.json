@@ -1,0 +1,381 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "ùzmèp"
+    },
+    "translations" : [ {
+      "title" : "不及物動詞",
+      "forms" : [ "つぶやく", "独語する", "ひとりごつ", "ひとりごちる" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]のことをつぶやく。"
+    }, {
+      "title" : "語源",
+      "text" : "*uz-mɛ́p「外に-[音・声]」> *ùzmep「言う(不及物動詞)」"
+    }, {
+      "title" : "語根",
+      "text" : "mɛp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "méf"
+    },
+    "translations" : [ {
+      "title" : "不及物動詞",
+      "forms" : [ "ひびく", "とどろく", "なりひびく", "なる" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が*mɛ́pʰする。大きな音が鳴り響くのに用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "*mɛp-z「[音・声]-[動詞]」 > *mèpʰ"
+    }, {
+      "title" : "語根",
+      "text" : "mɛp"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "múf"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "たべる", "くう", "くらう", "食する" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]を食べる。固体にのみ用いるため，スープはmǔしない。"
+    }, {
+      "title" : "語源",
+      "text" : "祖語*mux「食べる」>*mùf"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "ànt͡sìr"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "nàjzû"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "１", "はなす", "しゃべる", "かたる", "かたりあう" ]
+    }, {
+      "title" : "不及物動詞",
+      "forms" : [ "２ａ", "うちとける", "とける", "とけあう", "ひとつになる", "むつむ", "むつぶ", "ふところをひらく", "なかよくなる", "くだける", "講和する", "和睦する" ]
+    }, {
+      "title" : "不及物動詞",
+      "forms" : [ "２ｂ", "おちつく", "しずまる", "やわらぐ" ]
+    }, {
+      "title" : "不及物動詞",
+      "forms" : [ "３", "まざる", "まじる", "まじりあう", "とける" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "①[名格]が[対格]と語り合う。②かつて複数であった[名格]が一つになる（主語が集合である場合，ａの意味になり，主語が個体である場合，ｂの意味になる）。③[名格]がまざる（明確に幾つかに区別できるものが，一つの分けることのできないものになる）。"
+    }, {
+      "title" : "語源",
+      "text" : "祖語*nɔ́dʱul > *nɔ̀jʅ̂"
+    }, {
+      "title" : "語根",
+      "text" : "nɔh"
+    }, {
+      "title" : "語誌",
+      "text" : "「語り合う」動作から，[未定]時代に相手と打ち解ける意味が生じて，[未定]時代に混ざり合う意味が生まれた。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "ànt͡sìr"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "１", "のむ" ]
+    }, {
+      "title" : "及物動詞",
+      "forms" : [ "２", "とりいれる", "すう" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]を飲む/吸う。固体以外のものを体内に取り入れることを指す。②は特にその気体や仮想上のエネルギーを体内に取り入れる際に用いる動詞で，普段息を吸うときには用いない。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *an-sɛ́ɾ「中に-流す」 > *àȵt͡ɕeɾ「飲む」"
+    }, {
+      "title" : "語根",
+      "text" : "sɛɾ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 3,
+        "form" : "múf"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "àt"
+    },
+    "translations" : [ {
+      "title" : "不及物動詞",
+      "forms" : [ "ある", "いる", "存在する" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が存在する。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *at > *àt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "àzôj"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "このむ", "すく", "すきだ" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]を好む。対格には無生物しか取ることができない。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *al-jɔ́dʱ「わたしに-合う」 > *aʅôj"
+    }, {
+      "title" : "語根",
+      "text" : "jɔdʱ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "pàp"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "だ", "である", "コピュラ" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[名格]だ。恒常的な性質に使う。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *bap > *pàp「[恒常的な性質を表すコピュラ]」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "hùdzâj"
+    },
+    "translations" : [ {
+      "title" : "不及物動詞",
+      "forms" : [ "即位する", "就任する" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が就任する。就任する対象は組織や群衆の長。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *ʃúgʱjɔdʱ「引っ張る-[集合]」 > *hud͡ʑɔ̂j「長になる」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "thàkház"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "たたく", "うつ", "ぶつ", "なぐる", "殴打する" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]を殴打する。手などの意志によって操作されると考えられるものを媒介して，内出血のような危害を加えることを目的として攻撃するときに使う。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *dʱágʱ-ad「[傷つける]-[他動詞]」 > *tʰàkʰáz「殴打する」"
+    }, {
+      "title" : "語根",
+      "text" : "dʱagʱ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "tàsáz"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "さばく", "解体する" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]を解体する。調理の下準備として，材料を構成要素に分解すること。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *tɔ́ʃ-ad「[分割]-[及物動詞]」 > *tɔɕáz「分け前を決める」>"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "fàws"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "まえ", "むかし" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "むかし", "過去", "まえ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "記憶が曖昧な程度に，時間的に遠い過去である場合に用いる。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *bʱavs > *pʰàws"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "vv"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "一", "ひとつ", "ひと" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *bil > *pʰʅ̀"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "fàfsô"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "かぜ" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *fɒfsɔgʱ > *fɑfsô"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "jàχ"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "三", "みっつ" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *ʒɒks > *jɑ̀qʰ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "ʔúst"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "二", "ふたつ" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *kuʃt > *qúɕt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "mùfê"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "たべるもの", "たべもの", "食物", "食料" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *múxɒl > *mufə̂"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
