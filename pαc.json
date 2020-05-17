@@ -65,7 +65,7 @@
       "title" : "類義語",
       "entry" : {
         "id" : 5,
-        "form" : "ànt͡sìr"
+        "form" : "ànt͡sìɾ"
       }
     } ]
   }, {
@@ -105,7 +105,7 @@
   }, {
     "entry" : {
       "id" : 5,
-      "form" : "ànt͡sìr"
+      "form" : "ànt͡sìɾ"
     },
     "translations" : [ {
       "title" : "及物動詞",
@@ -155,7 +155,7 @@
   }, {
     "entry" : {
       "id" : 7,
-      "form" : "àzôj"
+      "form" : "àvjôj"
     },
     "translations" : [ {
       "title" : "及物動詞",
@@ -167,7 +167,7 @@
       "text" : "[名格]が[対格]を好む。対格には無生物しか取ることができない。"
     }, {
       "title" : "語源",
-      "text" : "祖 *al-jɔ́dʱ「わたしに-合う」 > *aʅôj"
+      "text" : "祖 *al-jɔ́dʱ「わたしに-合う」 > *awjôj"
     }, {
       "title" : "語根",
       "text" : "jɔdʱ"
@@ -196,7 +196,7 @@
   }, {
     "entry" : {
       "id" : 9,
-      "form" : "hùdzâj"
+      "form" : "húdzâj"
     },
     "translations" : [ {
       "title" : "不及物動詞",
@@ -278,7 +278,7 @@
   }, {
     "entry" : {
       "id" : 13,
-      "form" : "vv"
+      "form" : "pìw"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -287,14 +287,14 @@
     "tags" : [ "本来語" ],
     "contents" : [ {
       "title" : "語源",
-      "text" : "祖 *bil > *pʰʅ̀"
+      "text" : "祖 *bil > *pìw"
     } ],
     "variations" : [ ],
     "relations" : [ ]
   }, {
     "entry" : {
       "id" : 14,
-      "form" : "fàfsô"
+      "form" : "fáfsô"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -326,7 +326,7 @@
   }, {
     "entry" : {
       "id" : 16,
-      "form" : "ʔúst"
+      "form" : "úst"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -342,7 +342,7 @@
   }, {
     "entry" : {
       "id" : 17,
-      "form" : "mùfê"
+      "form" : "mùfáw"
     },
     "translations" : [ {
       "title" : "名詞",
@@ -350,8 +350,116 @@
     } ],
     "tags" : [ "本来語" ],
     "contents" : [ {
+      "title" : "語法",
+      "text" : "múfするもの。従って，スープや飲料水は含まれない。"
+    }, {
       "title" : "語源",
-      "text" : "祖 *múxɒl > *mufə̂"
+      "text" : "祖 *múxɒl > *mufɑ́w"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "fáɾjô"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "地上", "世界", "地球", "天下", "宇宙" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *fɔɾdʱɔ́ɣ > *fɔɾjô"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "féɾt"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "そら", "天" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *fɛɾt > *féɾt"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "kùsún"
+    },
+    "translations" : [ {
+      "title" : "及物動詞",
+      "forms" : [ "くる", "やってくる" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が[対格]に来る；対格は観察者が居ると考えられる方向。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *gúʃʃun > *kuɕún"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "ùzmèpáw"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ことば", "言語", "単語", "語句" ]
+    } ],
+    "tags" : [ "本来語" ],
+    "contents" : [ {
+      "title" : "語源",
+      "text" : "祖 *uzmɛ́pal"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "zɨ̂"
+    },
+    "translations" : [ {
+      "title" : "不及物動詞",
+      "forms" : [ "はじまる", "開始する", "うまれる", "生ずる", "発生する" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "[名格]が開始する。ある動作が発生する段階に入ること，あるいはある状態が存在する段階に入ること。生物が生まれることには用いない。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *zugz > *zʅ̂"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "zùt͡sítìɾ̥s"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "はじめに", "最初に", "第一に" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある動作・状態の変遷における初期の段階であることを表す。手順の真ん中に近くなる場合には用いない。"
+    }, {
+      "title" : "語源",
+      "text" : "祖 *zúgiɾhiʃ「一番目.単数処格」 > *zut͡ɕíɾ̥iɕ「一番目」"
     } ],
     "variations" : [ ],
     "relations" : [ ]
